@@ -2,6 +2,6 @@
 
 Hozirda Git, GitHub va veb-dasturlash asoslarini o'zlashtiryapman.
 
-Hi my name MAGAzd
+Hi my name MAGAzd1s
 
 
